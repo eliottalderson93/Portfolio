@@ -1,0 +1,174 @@
+*/CSS reset basic*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+	background-color:#66525f;
+}
+
+td{
+	
+	margin: 0px 19px 0px 19px;
+	
+}
+
+th{
+	
+	margin: 0px 19px 0px 19px;
+}
+
+img{   
+	width: 100%;
+  	height: auto;
+}
+
+body{
+	font-family:sans-serif;
+}
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+li{
+	display: inline;
+}
+
+.leftbanner{
+	text-align:left;
+	font-size: 190%;
+	color:black;
+	vertical-align: center;
+	
+}
+
+.rightbanner{
+	text-align:right;
+	font-size: 200%;
+	color:black;
+	vertical-align:center;
+}
+
+.photo{
+	border: 5px solid gray;
+	width: 450px;
+	margin: 0 0 0 0px;
+}
+
+.upper{
+	vertical-align:top;
+	padding: 20px;
+	background-color: #66525f;
+	width: 600px;
+	height: 300px;
+	display: inline-block;
+	margin: 0px 15x 0px 15px;
+}
+
+.header1{
+	background-color:dimgray;
+	width:400px;
+	height: 35px;
+	display: inline-block;
+	font-size: 180%;
+	text-align:left;
+	color:white;
+	padding: 37px, 5px, 37px, 5 px;
+}
+
+.header_upper{
+	background-color:dimgray;
+	width:600px;
+	height: 50px;
+	display: inline-block;
+	vertical-align:center;
+	font-size: 180%;
+	color:white;
+}
+
+.containerimage{
+	background-color:gray;
+	width:400px;
+	height: 200px;
+	display: inline-block;
+	vertical-align:top;
+}
+
+.paragraph_upper{
+	background-color:gainsboro;
+	width:600px;
+	height: 200px;
+	display: inline-block;
+	vertical-align:center;
+}
+
+.paragraph{
+	background-color:gainsboro;
+	width:400px;
+	height: 200px;
+	display: inline-block;
+	vertical-align:top;
+	text-align:left;
+}
+
+.header2{
+	background-color: dimgray;
+	width:400px;
+	height: 30px;
+	display: inline-block;
+	vertical-align:center;
+	font-size: 150%;
+	color:white;
+}
+
+.techbin{
+	background-color:gainsboro;
+	width:400px;
+	height: 200px;
+	display: inline-block;
+	vertical-align:top;
+}
+
+.techpic{
+	max-width: 50px;
+	display:inline-block;
+}
+
+.button{
+	background-color:green;
+	width: fit-content;
+	height:fit-content;
+	border: 1px solid black;
+	padding: 5px;
+	border-radius:12px;
+	margin:auto;
+	color:white;
+}
+
+.bannertop{
+	background-color: whitesmoke;
+	width: 1326px;
+	height: 100px;
+}
+
+.bannerbottom{
+	background-color: whitesmoke;
+	width: 1326px;
+	height: 100px;
+	text-align:center;
+	
+}
+
+.underline{
+	text-decoration:underline;
+}
+
+.tinypic{
+	max-width: 40px;
+	max-height:40px;
+	display: inline-block;
+}
